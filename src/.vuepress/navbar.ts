@@ -35,7 +35,7 @@ export default navbar([
     ]
   },
   {
-    text: "JS基础知识",
+    text: "JS手册",
     icon: "book",
     prefix: "/js-book",
     children: [
