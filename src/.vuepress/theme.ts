@@ -13,7 +13,7 @@ export default hopeTheme({
 
   logo: "",
 
-  repo: "LuoHuacheng/my-docs",
+  repo: "LuoHuacheng/fe-handbook",
 
   docsDir: "src",
 
